@@ -316,6 +316,7 @@ button:active {
     max-height: 380px;
     transition: all 300ms ease;
     cursor: not-allowed;
+    padding: unset;
 }
 
 .book__img--wrapper {
