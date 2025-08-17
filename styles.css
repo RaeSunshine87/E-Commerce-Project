@@ -421,6 +421,7 @@ footer__logo {
 
     .highlight {
         width: 100%;
+        margin: 12px;
     }
 
     .highlight:not (:last-child) {
